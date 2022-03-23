@@ -1,0 +1,9 @@
+.headLine {
+    padding-bottom: 50px;
+}
+
+.submit-area {
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
